@@ -1,0 +1,143 @@
+nav li{
+ position: relative;
+  margin: 35px;
+  padding: 10px;
+  text-decoration: none;
+  float: left;
+  list-style: none;
+}
+
+a{
+  text-decoration: none;
+  color: #C2C9D5;
+} 
+
+.semilla{
+  height:400px;
+  width: 100%;
+}
+.gris{
+  background-color:#D8E1F2;
+   padding-top: 12px;
+   padding-bottom: 26px;
+}
+
+.gris p{
+  color: #85857E;
+  text-align: center;
+}
+
+.mision {
+  text-align: center;
+}
+
+.mision p{
+color: #A6A19E;
+}
+
+.verde
+{ background-image: url(../img/fondo.jpg);
+color: white;
+text-align: center;
+
+}
+
+.verde p{
+  font-size:15px; 
+}
+
+
+.servicios h2{
+  text-align: center;
+} 
+
+.servicios p{
+  color: #A6A19E;
+  text-align: center;
+}
+
+
+.servicio{
+  color: #27CC80;
+   text-align: center;
+}
+
+.servicio p{
+  font-size: 16px;
+  color: #D7D2CB;
+  text-align: center;
+}
+
+.verde2{
+  background-color: #47A397;
+  text-align: center;
+  color:white;
+  height: 600px;
+}
+
+.verde2 h4{
+  font-size: 25px;
+  color: white;
+
+}
+
+.imagen{
+    height: 248px;
+    width: 500px;
+}
+
+.blanco{
+  text-align: center;
+  color:white;
+ width: 100%;
+ height: 252px;
+ margin-top: 15px;
+
+}
+
+.chinas{
+  
+  text-align: center;
+}
+
+ .chinas h2{
+  color: #0BCA67;
+
+}
+.chinas2{
+  border-radius: 150px;
+  width:200px;
+}
+
+.chinas p{
+  color: #9A9EAF;
+ 
+}
+
+.chinas3{
+  height:30px;
+  width: 30px;
+}
+
+.gris2{
+  background-image: url(../img/fondo2.jpg);
+}
+
+.gris2 h2,h4{
+  color:#484A52;
+}
+
+.gris2 p{
+  color: #757986;
+
+}
+
+.negro{
+  background-color: black;
+  text-align: center;
+}
+
+.iconos{
+  height: 30px;
+  width: 30px;
+}

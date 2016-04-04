@@ -1,0 +1,62 @@
+.mayor{
+	height: 370px;
+	position: relative;
+	margin: 0 auto;
+	width: 700px;
+}
+
+
+.caja{
+	position: relative;
+	margin: 0px;
+	text-align: center;
+	display: inline-block;
+}
+
+li{
+	display: inline-block;
+	font-size: 20px;
+	border-right: 1px solid black;
+
+}
+
+hr{
+	border-right: solid block;
+}
+
+ul{ list-style-type:none ;
+	display: inline-block; }
+
+.ho{
+	width:700px;
+	height:400px;
+	display: inline-block;
+
+}
+
+.pin{
+	font-size: 20px;
+	width: 
+
+	
+}
+
+.mac{
+     position: absolute;	
+  bottom:1px;
+  left: 3px;
+  color:#FFFFFF;
+
+}
+
+.gato{
+	width: 630px;
+	margin: 0 auto;
+}
+
+div .hola{
+height:200px;
+width: 200px;
+	display: inline-block;
+	position: relative;
+}
